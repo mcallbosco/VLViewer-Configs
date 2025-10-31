@@ -1,5 +1,5 @@
 {
-  "export_date": "2025-10-14T00:45:38.145886",
+  "export_date": "2025-10-26T22:39:23.479418",
   "total_conversations": 734,
   "conversations": [
     {
@@ -5192,7 +5192,7 @@
           "variation": 1,
           "speaker": "dynamo",
           "filename": "dynamo_match_start_atlas_dynamo_convo03_01.mp3",
-          "transcription": "I don't suppose I could take a look at that, Tom, when all this is over?",
+          "transcription": "I don't suppose I could take a look at that Tome when all this is over?",
           "has_transcription": true,
           "file_creation_date": null
         },
@@ -9024,7 +9024,7 @@
           "variation": 1,
           "speaker": "bebop",
           "filename": "bebop_match_start_bebop_orion_convo01_04.mp3",
-          "transcription": "Well, I live and learn.",
+          "transcription": "Well, live and learn.",
           "has_transcription": true,
           "file_creation_date": null
         }
@@ -34518,7 +34518,7 @@
           "variation": 1,
           "speaker": "grey talon",
           "filename": "orion_match_start_orion_warden_convo02_04.mp3",
-          "transcription": "Borden, we're the ones with hollow lives.",
+          "transcription": "Warden, we're the ones with hollow lives.",
           "has_transcription": true,
           "file_creation_date": null
         }
