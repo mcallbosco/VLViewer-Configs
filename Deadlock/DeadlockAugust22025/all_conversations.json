@@ -1,5 +1,5 @@
 {
-  "export_date": "2025-10-26T22:39:23.479418",
+  "export_date": "2025-12-15T16:29:39.547121",
   "total_conversations": 734,
   "conversations": [
     {
@@ -1324,7 +1324,7 @@
           "variation": 1,
           "speaker": "holliday",
           "filename": "astro_match_start_astro_lash_convo03_03.mp3",
-          "transcription": "I don't like your teeth in.",
+          "transcription": "I don't knock your teeth in.",
           "has_transcription": true,
           "file_creation_date": null
         },
@@ -3332,7 +3332,7 @@
           "variation": 1,
           "speaker": "seven",
           "filename": "gigawatt_match_start_gigawatt_astro_convo02_03.mp3",
-          "transcription": "Apologies. I would never dream of upsetting you, Holiday.",
+          "transcription": "Apologies. I would never dream of upsetting you, Holliday.",
           "has_transcription": true,
           "file_creation_date": null
         }
@@ -3443,7 +3443,7 @@
           "variation": 1,
           "speaker": "seven",
           "filename": "gigawatt_match_start_gigawatt_astro_troubadour_convo02_01.mp3",
-          "transcription": "Rejoice, Holiday. Soon you will get the revenge you seek.",
+          "transcription": "Rejoice, Holliday. Soon you will get the revenge you seek.",
           "has_transcription": true,
           "file_creation_date": null
         },
@@ -4552,7 +4552,7 @@
           "variation": 1,
           "speaker": "viper",
           "filename": "viper_match_start_viper_astro_convo02_03.mp3",
-          "transcription": "or from.",
+          "transcription": "Where from.",
           "has_transcription": true,
           "file_creation_date": null
         },
@@ -8874,7 +8874,7 @@
           "variation": 1,
           "speaker": "bebop",
           "filename": "bebop_match_start_bebop_mirage_convo03_01.mp3",
-          "transcription": "How'd you like our chances?.",
+          "transcription": "How'd you like our chances?",
           "has_transcription": true,
           "file_creation_date": null
         },
@@ -10684,7 +10684,7 @@
           "variation": 1,
           "speaker": "doorman",
           "filename": "doorman_match_start_bookworm_doorman_convo02_02.mp3",
-          "transcription": "since its inception.",
+          "transcription": "Since its inception.",
           "has_transcription": true,
           "file_creation_date": null
         },
@@ -14261,7 +14261,7 @@
           "variation": 1,
           "speaker": "drifter",
           "filename": "drifter_match_start_drifter_dynamo_convo01_05.mp3",
-          "transcription": "But in AIM, you love her?",
+          "transcription": "Pretty name, you love her?",
           "has_transcription": true,
           "file_creation_date": null
         },
@@ -15755,16 +15755,7 @@
           "variation": 1,
           "speaker": "drifter",
           "filename": "drifter_match_start_drifter_tengu_convo03_05.mp3",
-          "transcription": "It's plant seeds.",
-          "has_transcription": true,
-          "file_creation_date": null
-        },
-        {
-          "part": 6,
-          "variation": 1,
-          "speaker": "drifter",
-          "filename": "drifter_match_start_drifter_tengu_convo03_06.mp3",
-          "transcription": "You save lives, and I take them.",
+          "transcription": "It's plantin' seeds.",
           "has_transcription": true,
           "file_creation_date": null
         },
@@ -15780,10 +15771,19 @@
         {
           "part": 7,
           "variation": 1,
+          "speaker": "drifter",
+          "filename": "drifter_match_start_drifter_tengu_convo03_07.mp3",
+          "transcription": "[Transcription not available]",
+          "has_transcription": false,
+          "file_creation_date": null
+        },
+        {
+          "part": 8,
+          "variation": 1,
           "speaker": "ivy",
-          "filename": "tengu_match_start_drifter_tengu_convo03_07.mp3",
-          "transcription": "I think your analogies need some work.",
-          "has_transcription": true,
+          "filename": "tengu_match_start_drifter_tengu_convo03_08.mp3",
+          "transcription": "[Transcription not available]",
+          "has_transcription": false,
           "file_creation_date": null
         }
       ],
@@ -16015,7 +16015,7 @@
           "variation": 1,
           "speaker": "drifter",
           "filename": "drifter_match_start_drifter_wraith_convo03_02.mp3",
-          "transcription": "You should be right, otherwise I...",
+          "transcription": "You should be, Wraith, otherwise I...",
           "has_transcription": true,
           "file_creation_date": null
         },
@@ -23780,7 +23780,7 @@
           "variation": 1,
           "speaker": "shiv",
           "filename": "shiv_match_start_ghost_shiv_convo01_04.mp3",
-          "transcription": "What bar?",
+          "transcription": "What bar?.",
           "has_transcription": true,
           "file_creation_date": null
         },
@@ -29750,7 +29750,7 @@
           "variation": 1,
           "speaker": "grey talon",
           "filename": "orion_match_start_orion_hornet_convo03_02.mp3",
-          "transcription": "You deserved better. ",
+          "transcription": "You deserved better.",
           "has_transcription": true,
           "file_creation_date": null
         },
@@ -36239,7 +36239,7 @@
           "variation": 1,
           "speaker": "viper",
           "filename": "viper_match_start_viper_atlas_convo03_03.mp3",
-          "transcription": "Am I buy-? No! I'm not buy-! I'm a lady! Have some manners.",
+          "transcription": "Am I buy-? No! I'm not buy-! I'm a lady! Have some manners. Have some manners.",
           "has_transcription": true,
           "file_creation_date": null
         }

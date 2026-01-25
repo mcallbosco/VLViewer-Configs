@@ -4,10 +4,20 @@
     "gameName": "Deadlock",
     "tagline": "An easy-to-browse collection of Deadlock voice lines and conversations",
     "navigation": [
-      { "href": "/characters", "label": "Characters" },
-      { "href": "/conversations", "label": "Conversations" },
-      { "href": "/voicelines", "label": "Voice Lines" }
-    ]
+      {
+        "href": "/characters",
+        "label": "Characters"
+      },
+      {
+        "href": "/conversations",
+        "label": "Conversations"
+      },
+      {
+        "href": "/voicelines",
+        "label": "Voice Lines"
+      }
+    ],
+    "baseUrl": "https://deadlock.vlviewer.com"
   },
   "homepage": {
     "infoBox": {
@@ -75,6 +85,7 @@
   "portraitDirectory": "Games/Deadlock/Icons",
   "voicelineFile": "Games/Deadlock/DeadlockAugust22025/all_voicelines.json",
   "conversationsFile": "Games/Deadlock/DeadlockAugust22025/all_conversations.json",
+  "coverageFile": "Games/Deadlock/DeadlockAugust22025/coverage.json",
   "voicelinePlayCounterId": "VLVVLDeadlockPlayed",
   "opengraphIcon": "Games/Deadlock/Icons/deadlock.png",
   "favicon": "Games/Deadlock/Icons/deadlock.ico",
@@ -84,11 +95,12 @@
     "showNewVoicelineIndicators": true
   },
   "modules": {
+    "pageBackground": "snow-floor",
     "characterCard": "deadlock-blemished-wobbly",
     "enableStaples": true,
     "characterCardVoicelineCard": {
       "module": "voiceline-masked",
-      "props": { 
+      "props": {
         "maskColor": "#2E443D",
         "maskScale": 1.0,
         "edgeScale": 1.5,
@@ -101,6 +113,7 @@
         "maskColor": "#39584B"
       }
     },
+    "blogBanner": "deadlock-blemished",
     "characterSidebar": "deadlock-blemished",
     "conversationBubbles": {
       "module": "deadlock-blemished"
@@ -141,11 +154,10 @@
         "950": "#101419"
       }
     },
-      "backgrounds": {
-        "header": "#1a2520",
-        "footer": "#1a2520",
-        "page": "#1f2020"
-      }
-    
+    "backgrounds": {
+      "header": "#1a2520",
+      "footer": "#1a2520",
+      "page": "#1f2020"
+    }
   }
 }
