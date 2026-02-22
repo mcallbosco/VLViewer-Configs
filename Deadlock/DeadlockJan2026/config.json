@@ -26,25 +26,19 @@
       "categories": [
         {
           "name": "Conversations",
-          "description": "Characters interacting with each other in sequence, forming complete dialogues."
+          "description": "Characters interacting with each other in sequence, forming complete dialogues. These happen at the start of a match."
         },
         {
-          "name": "Voice Lines",
-          "description": "Individual character lines, including combat callouts, ability usage, and character-specific reactions."
+          "name": "Voice lines",
+          "description": "Any voice lines that are not part of conversations. These are organized in a way to try and make it easy to find by character speaking, category, and character the voiceline is referencing."
         }
       ],
       "sections": [
         {
           "title": "Transcription Accuracy",
-          "content": "Since Deadlock doesn't yet have official captions, the transcriptions on this site are community-created and may not be 100% accurate. If you notice any incorrect captions, please consider submitting a correction via a pull request to:",
+          "content": "Deadlock now has offical voiceline transcriptions, so most voicelines should have accurate captions. However, some don't, and those are transcribed using Whisper. If you notice any incorrect captions with an edit button, please consider submitting a correction via a pull request to:",
           "link": "https://github.com/mcallbosco/Deadlock-Transcriptions",
-          "linkText": "github.com/mcallbosco/DLSoundProjectUtilities"
-        },
-        {
-          "title": "Content Limitations",
-          "content": "Due to free hosting limitations, this site only includes voice lines that may be related to lore or are potentially interesting. If you know of lore-relevant or interesting voice lines that are missing, please submit an issue at:",
-          "link": "https://github.com/mcallbosco/DLSoundProjectUtilities/issues",
-          "linkText": "github.com/mcallbosco/DLSoundProjectUtilities/issues"
+          "linkText": "https://github.com/mcallbosco/Deadlock-Transcriptions"
         }
       ],
       "footer": "Browse by character below or use the navigation menu to explore all conversations and voice lines."
@@ -72,7 +66,7 @@
       {
         "label": "Neon Prime Voice Lines",
         "url": "https://www.youtube.com/watch?v=kxrf7KplbfU",
-        "description": "Source code and data for this project."
+        "description": "Voicelines from when Deadlock wasn't deadlock."
       },
       {
         "label": "Neon Prime Music",

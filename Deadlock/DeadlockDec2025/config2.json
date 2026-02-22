@@ -1,8 +1,8 @@
 {
   "site": {
-    "name": "Deadlock Voice Line Viewer",
-    "gameName": "Deadlock",
-    "tagline": "An easy-to-browse collection of Deadlock voice lines and conversations",
+    "name": "Deadlock Dec 2025 Voice Line Viewer",
+    "gameName": "Deadlock Dec 2025",
+    "tagline": "Deadlock December 2025 archive.",
     "navigation": [
       {
         "href": "/characters",
@@ -17,7 +17,7 @@
         "label": "Voice Lines"
       }
     ],
-    "baseUrl": "https://deadlock.vlviewer.com"
+    "baseUrl": "https://dec2025.deadlock.vlviewer.com"
   },
   "homepage": {
     "infoBox": {
@@ -33,25 +33,11 @@
           "description": "Individual character lines, including combat callouts, ability usage, and character-specific reactions."
         }
       ],
-      "sections": [
-        {
-          "title": "Transcription Accuracy",
-          "content": "Since Deadlock doesn't yet have official captions, the transcriptions on this site are community-created and may not be 100% accurate. If you notice any incorrect captions, please consider submitting a correction via a pull request to:",
-          "link": "https://github.com/mcallbosco/Deadlock-Transcriptions",
-          "linkText": "github.com/mcallbosco/DLSoundProjectUtilities"
-        },
-        {
-          "title": "Content Limitations",
-          "content": "Due to free hosting limitations, this site only includes voice lines that may be related to lore or are potentially interesting. If you know of lore-relevant or interesting voice lines that are missing, please submit an issue at:",
-          "link": "https://github.com/mcallbosco/DLSoundProjectUtilities/issues",
-          "linkText": "github.com/mcallbosco/DLSoundProjectUtilities/issues"
-        }
-      ],
       "footer": "Browse by character below or use the navigation menu to explore all conversations and voice lines."
     }
   },
   "footer": {
-    "mainText": "Deadlock Conversations Viewer",
+    "mainText": "Deadlock Dec 2025 Conversations Viewer",
     "copyright": "Valve, the Valve logo, Steam, the Steam logo, Deadlock, and the Deadlock logo are trademarks and/or registered trademarks of Valve Corporation. Deadlock Conversations Viewer is a fan website and not associated with Valve.",
     "companyLink": "https://www.valvesoftware.com/en/",
     "designCredit": "Designed by Mcall",
@@ -91,8 +77,10 @@
   "favicon": "Games/Deadlock/Icons/deadlock.ico",
   "faviconPng": "Games/Deadlock/Icons/deadlock.png",
   "appleTouchIcon": "Games/Deadlock/Icons/deadlock.png",
+  "hideEditButton": true,
+  "hideBlog" : true,
   "ui": {
-    "showNewVoicelineIndicators": true
+    "showNewVoicelineIndicators": false
   },
   "modules": {
     "characterCard": "deadlock-blemished-wobbly",

@@ -1,0 +1,238 @@
+{
+  "generated_at": "2026-02-22T14:29:43.464941",
+  "source_directory": "/home/mcall/Apps/SteamFolder/steamapps/common/Deadlock/game/citadel/resource/localization/citadel_generated_vo",
+  "languages": [
+    {
+      "language": "brazilian",
+      "output_file": "brazilian.json",
+      "source_file": "citadel_generated_vo_brazilian.txt",
+      "entry_count": 0,
+      "collision_count": 0,
+      "exact_override_count": 0
+    },
+    {
+      "language": "bulgarian",
+      "output_file": "bulgarian.json",
+      "source_file": "citadel_generated_vo_bulgarian.txt",
+      "entry_count": 0,
+      "collision_count": 0,
+      "exact_override_count": 0
+    },
+    {
+      "language": "czech",
+      "output_file": "czech.json",
+      "source_file": "citadel_generated_vo_czech.txt",
+      "entry_count": 0,
+      "collision_count": 0,
+      "exact_override_count": 0
+    },
+    {
+      "language": "danish",
+      "output_file": "danish.json",
+      "source_file": "citadel_generated_vo_danish.txt",
+      "entry_count": 0,
+      "collision_count": 0,
+      "exact_override_count": 0
+    },
+    {
+      "language": "dutch",
+      "output_file": "dutch.json",
+      "source_file": "citadel_generated_vo_dutch.txt",
+      "entry_count": 0,
+      "collision_count": 0,
+      "exact_override_count": 0
+    },
+    {
+      "language": "english",
+      "output_file": "english.json",
+      "source_file": "citadel_generated_vo_english.txt",
+      "entry_count": 42419,
+      "collision_count": 0,
+      "exact_override_count": 45
+    },
+    {
+      "language": "finnish",
+      "output_file": "finnish.json",
+      "source_file": "citadel_generated_vo_finnish.txt",
+      "entry_count": 0,
+      "collision_count": 0,
+      "exact_override_count": 0
+    },
+    {
+      "language": "french",
+      "output_file": "french.json",
+      "source_file": "citadel_generated_vo_french.txt",
+      "entry_count": 230,
+      "collision_count": 0,
+      "exact_override_count": 0
+    },
+    {
+      "language": "german",
+      "output_file": "german.json",
+      "source_file": "citadel_generated_vo_german.txt",
+      "entry_count": 0,
+      "collision_count": 0,
+      "exact_override_count": 0
+    },
+    {
+      "language": "greek",
+      "output_file": "greek.json",
+      "source_file": "citadel_generated_vo_greek.txt",
+      "entry_count": 0,
+      "collision_count": 0,
+      "exact_override_count": 0
+    },
+    {
+      "language": "hungarian",
+      "output_file": "hungarian.json",
+      "source_file": "citadel_generated_vo_hungarian.txt",
+      "entry_count": 0,
+      "collision_count": 0,
+      "exact_override_count": 0
+    },
+    {
+      "language": "indonesian",
+      "output_file": "indonesian.json",
+      "source_file": "citadel_generated_vo_indonesian.txt",
+      "entry_count": 737,
+      "collision_count": 0,
+      "exact_override_count": 0
+    },
+    {
+      "language": "italian",
+      "output_file": "italian.json",
+      "source_file": "citadel_generated_vo_italian.txt",
+      "entry_count": 1,
+      "collision_count": 0,
+      "exact_override_count": 0
+    },
+    {
+      "language": "japanese",
+      "output_file": "japanese.json",
+      "source_file": "citadel_generated_vo_japanese.txt",
+      "entry_count": 0,
+      "collision_count": 0,
+      "exact_override_count": 0
+    },
+    {
+      "language": "koreana",
+      "output_file": "koreana.json",
+      "source_file": "citadel_generated_vo_koreana.txt",
+      "entry_count": 0,
+      "collision_count": 0,
+      "exact_override_count": 0
+    },
+    {
+      "language": "latam",
+      "output_file": "latam.json",
+      "source_file": "citadel_generated_vo_latam.txt",
+      "entry_count": 8,
+      "collision_count": 0,
+      "exact_override_count": 0
+    },
+    {
+      "language": "norwegian",
+      "output_file": "norwegian.json",
+      "source_file": "citadel_generated_vo_norwegian.txt",
+      "entry_count": 0,
+      "collision_count": 0,
+      "exact_override_count": 0
+    },
+    {
+      "language": "polish",
+      "output_file": "polish.json",
+      "source_file": "citadel_generated_vo_polish.txt",
+      "entry_count": 2,
+      "collision_count": 0,
+      "exact_override_count": 0
+    },
+    {
+      "language": "portuguese",
+      "output_file": "portuguese.json",
+      "source_file": "citadel_generated_vo_portuguese.txt",
+      "entry_count": 0,
+      "collision_count": 0,
+      "exact_override_count": 0
+    },
+    {
+      "language": "romanian",
+      "output_file": "romanian.json",
+      "source_file": "citadel_generated_vo_romanian.txt",
+      "entry_count": 0,
+      "collision_count": 0,
+      "exact_override_count": 0
+    },
+    {
+      "language": "russian",
+      "output_file": "russian.json",
+      "source_file": "citadel_generated_vo_russian.txt",
+      "entry_count": 0,
+      "collision_count": 0,
+      "exact_override_count": 0
+    },
+    {
+      "language": "schinese",
+      "output_file": "schinese.json",
+      "source_file": "citadel_generated_vo_schinese.txt",
+      "entry_count": 42419,
+      "collision_count": 0,
+      "exact_override_count": 45
+    },
+    {
+      "language": "spanish",
+      "output_file": "spanish.json",
+      "source_file": "citadel_generated_vo_spanish.txt",
+      "entry_count": 0,
+      "collision_count": 0,
+      "exact_override_count": 0
+    },
+    {
+      "language": "swedish",
+      "output_file": "swedish.json",
+      "source_file": "citadel_generated_vo_swedish.txt",
+      "entry_count": 0,
+      "collision_count": 0,
+      "exact_override_count": 0
+    },
+    {
+      "language": "tchinese",
+      "output_file": "tchinese.json",
+      "source_file": "citadel_generated_vo_tchinese.txt",
+      "entry_count": 0,
+      "collision_count": 0,
+      "exact_override_count": 0
+    },
+    {
+      "language": "thai",
+      "output_file": "thai.json",
+      "source_file": "citadel_generated_vo_thai.txt",
+      "entry_count": 163,
+      "collision_count": 0,
+      "exact_override_count": 0
+    },
+    {
+      "language": "turkish",
+      "output_file": "turkish.json",
+      "source_file": "citadel_generated_vo_turkish.txt",
+      "entry_count": 5,
+      "collision_count": 0,
+      "exact_override_count": 0
+    },
+    {
+      "language": "ukrainian",
+      "output_file": "ukrainian.json",
+      "source_file": "citadel_generated_vo_ukrainian.txt",
+      "entry_count": 673,
+      "collision_count": 0,
+      "exact_override_count": 0
+    },
+    {
+      "language": "vietnamese",
+      "output_file": "vietnamese.json",
+      "source_file": "citadel_generated_vo_vietnamese.txt",
+      "entry_count": 0,
+      "collision_count": 0,
+      "exact_override_count": 0
+    }
+  ]
+}

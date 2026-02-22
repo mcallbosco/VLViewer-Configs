@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "language": "turkish",
+    "source_file": "citadel_generated_vo_turkish.txt",
+    "generated_at": "2026-02-22T14:29:44.185419",
+    "entry_count": 5,
+    "collision_count": 0,
+    "exact_override_count": 0
+  },
+  "lines": {
+    "patron_female_ally_astro_start_02": "Tutulma çok yakın Holliday… Bu fırsatı sakın heba etme…",
+    "patron_female_ally_astro_start_03": "Bu kadar emek boşa gitmemeli Holliday. Ritüeli gerçekleştirme zamanı geldi.",
+    "patron_female_ally_astro_start_05": "Artık evinden çok uzakta olsan da aradığın katili bulmaya çok yakınsın Holliday. Ritüeli tamamla ve Yüce Ana sayesinde başarıya ulaş.",
+    "patron_female_ally_atlas_killing_streak_01": "İyi iş çıkardın Abrams…",
+    "patron_female_ally_atlas_killing_streak_02": "Böyle devam dedektif…"
+  }
+}

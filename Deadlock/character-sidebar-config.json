@@ -448,5 +448,67 @@
           "url": "https://deadlock.wiki/Yamato"
         }
       ]
+   },
+   "celeste": {
+    "title": "",
+    "items": [
+        {
+          "type": "button",
+          "content": "Wiki Page",
+          "url": "https://deadlock.wiki/Celeste"
+        }
+      ]
+   },
+   "apollo": {
+    "title": "",
+    "items": [
+        {
+          "type": "button",
+          "content": "Wiki Page",
+          "url": "https://deadlock.wiki/Apollo"
+        }
+      ]
+   },
+   "graves": {
+    "title": "",
+    "items": [
+        {
+          "type": "button",
+          "content": "Wiki Page",
+          "url": "https://deadlock.wiki/Graves"
+        }
+      ]
+   },
+   "rem": {
+    "title": "",
+    "items": [
+        {
+          "type": "button",
+          "content": "Wiki Page",
+          "url": "https://deadlock.wiki/Rem"
+        }
+      ]
+   },
+   "silver": {
+    "title": "",
+    "items": [
+        {
+          "type": "button",
+          "content": "Wiki Page",
+          "url": "https://deadlock.wiki/Silver"
+        }
+      ]
+   },
+   "venator": {
+    "title": "",
+    "items": [
+        {
+          "type": "button",
+          "content": "Wiki Page",
+          "url": "https://deadlock.wiki/Venator"
+        }
+      ]
    }
+
+
   }

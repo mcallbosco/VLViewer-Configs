@@ -1,0 +1,13 @@
+{
+  "meta": {
+    "language": "italian",
+    "source_file": "citadel_generated_vo_italian.txt",
+    "generated_at": "2026-02-22T14:29:43.858223",
+    "entry_count": 1,
+    "collision_count": 0,
+    "exact_override_count": 0
+  },
+  "lines": {
+    "patron_female_tutorial_stamina_reminder_announcer_tutorial": "Hai esaurito la stamina, ma non preoccuparti, col tempo si ricaricherà."
+  }
+}

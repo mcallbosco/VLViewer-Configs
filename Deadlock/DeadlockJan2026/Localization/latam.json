@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "language": "latam",
+    "source_file": "citadel_generated_vo_latam.txt",
+    "generated_at": "2026-02-22T14:29:43.863021",
+    "entry_count": 8,
+    "collision_count": 0,
+    "exact_override_count": 0
+  },
+  "lines": {
+    "astro_ping_wraith_missing_01": "Desapareció Espectro.",
+    "atlas_ping_careful_wraith_01": "Cuidado, Espectro...",
+    "bebop_ping_kelvin_in_mid": "¡Kelvin está en medio!",
+    "bebop_ping_kelvin_missing_01": "Kelvin está perdido.",
+    "bebop_ping_kelvin_under_garage": "¡Kelvin está debajo del garaje!",
+    "bebop_ping_wraith_missing_01": "Desapareció Espectro.",
+    "bookworm_ping_hornet_in_mid": "¡Vindicta está en medio!",
+    "doorman_kill_bebop_05": "Tu carne puede ser de hierro, pero tu corazón es demasiado blando para esto..."
+  }
+}
