@@ -1,8 +1,13 @@
 {
   "meta": {
     "language": "vietnamese",
+    "friendly_name": "Vietnamese",
+    "native_name": "Tiếng Việt",
+    "country_code": "VN",
+    "flag_emoji": "🇻🇳",
+    "flag_emoji_unicode": "U+1F1FB U+1F1F3",
     "source_file": "citadel_generated_vo_vietnamese.txt",
-    "generated_at": "2026-02-22T14:29:44.194344",
+    "generated_at": "2026-02-22T21:20:14.041456",
     "entry_count": 0,
     "collision_count": 0,
     "exact_override_count": 0

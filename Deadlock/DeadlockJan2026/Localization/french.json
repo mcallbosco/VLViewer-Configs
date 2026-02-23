@@ -1,8 +1,13 @@
 {
   "meta": {
     "language": "french",
+    "friendly_name": "French",
+    "native_name": "Français",
+    "country_code": "FR",
+    "flag_emoji": "🇫🇷",
+    "flag_emoji_unicode": "U+1F1EB U+1F1F7",
     "source_file": "citadel_generated_vo_french.txt",
-    "generated_at": "2026-02-22T14:29:43.839178",
+    "generated_at": "2026-02-22T21:20:13.633115",
     "entry_count": 230,
     "collision_count": 0,
     "exact_override_count": 0

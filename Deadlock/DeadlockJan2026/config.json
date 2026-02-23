@@ -52,6 +52,8 @@
     "designerLink": "https://mcallbos.co",
     "donationText": "Buy me a coffee",
     "donationLink": "https://ko-fi.com/mcallbosco",
+    "feedbackText": "Leave feedback on my thread in the Deadlock Discord",
+    "feedbackLink": "https://discord.com/channels/1231286446472691825/1410736031598121102",
     "resources": [
       {
         "label": "Source 2 Viewer",
@@ -80,13 +82,17 @@
   "voicelineFile": "Games/Deadlock/DeadlockJan2026/all_voicelines.json",
   "conversationsFile": "Games/Deadlock/DeadlockJan2026/all_conversations.json",
   "coverageFile": "Games/Deadlock/DeadlockJan2026/coverage.json",
+  "localizationDefaultLanguage": "english",
   "voicelinePlayCounterId": "VLVVLDeadlockPlayed",
   "opengraphIcon": "Games/Deadlock/Icons/deadlock.png",
   "favicon": "Games/Deadlock/Icons/deadlock.ico",
   "faviconPng": "Games/Deadlock/Icons/deadlock.png",
   "appleTouchIcon": "Games/Deadlock/Icons/deadlock.png",
   "ui": {
-    "showNewVoicelineIndicators": true
+    "showNewVoicelineIndicators": true,
+    "checkboxActiveColor": "#3f795f",
+    "showDownloadAllButton": true,
+    "downloadButtonColor": "#3f795f"
   },
   "modules": {
     "characterCard": "deadlock-blemished-wobbly",

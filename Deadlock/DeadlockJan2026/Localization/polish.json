@@ -1,8 +1,13 @@
 {
   "meta": {
     "language": "polish",
+    "friendly_name": "Polish",
+    "native_name": "Polski",
+    "country_code": "PL",
+    "flag_emoji": "🇵🇱",
+    "flag_emoji_unicode": "U+1F1F5 U+1F1F1",
     "source_file": "citadel_generated_vo_polish.txt",
-    "generated_at": "2026-02-22T14:29:43.867092",
+    "generated_at": "2026-02-22T21:20:13.668559",
     "entry_count": 2,
     "collision_count": 0,
     "exact_override_count": 0

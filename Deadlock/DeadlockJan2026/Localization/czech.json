@@ -1,8 +1,13 @@
 {
   "meta": {
     "language": "czech",
+    "friendly_name": "Czech",
+    "native_name": "Čeština",
+    "country_code": "CZ",
+    "flag_emoji": "🇨🇿",
+    "flag_emoji_unicode": "U+1F1E8 U+1F1FF",
     "source_file": "citadel_generated_vo_czech.txt",
-    "generated_at": "2026-02-22T14:29:43.469079",
+    "generated_at": "2026-02-22T21:20:13.168434",
     "entry_count": 0,
     "collision_count": 0,
     "exact_override_count": 0

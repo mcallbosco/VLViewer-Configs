@@ -1,5 +1,5 @@
 {
-  "export_date": "2026-02-22T14:29:46.591968",
+  "export_date": "2026-02-22T21:20:16.329459",
   "total_conversations": 1060,
   "conversations": [
     {
@@ -46892,7 +46892,7 @@
           "variation": 1,
           "speaker": "venator",
           "filename": "priest_match_start_priest_atlas_convo03_08.mp3",
-          "transcription": "You're a good man, detective. This is my last bottle. I'm happy to have it be with you.",
+          "transcription": "You're a good man, detective. This is my last battle. I'm happy to have it be with you.",
           "has_transcription": true,
           "status": "ADDED"
         }
@@ -52677,7 +52677,7 @@
           "variation": 1,
           "speaker": "yamato",
           "filename": "yamato_match_start_yamato_tengu_convo02_01.mp3",
-          "transcription": "Don't stop me in the back, gargoyle.",
+          "transcription": "Don't stab me in the back, gargoyle.",
           "has_transcription": true,
           "status": "ADDED"
         },
@@ -52695,7 +52695,7 @@
           "variation": 1,
           "speaker": "yamato",
           "filename": "yamato_match_start_yamato_tengu_convo02_05.mp3",
-          "transcription": "Then you're full.",
+          "transcription": "Then you're a fool.",
           "has_transcription": true,
           "status": "ADDED"
         }

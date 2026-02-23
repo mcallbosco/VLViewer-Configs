@@ -1,8 +1,13 @@
 {
   "meta": {
     "language": "thai",
+    "friendly_name": "Thai",
+    "native_name": "ไทย",
+    "country_code": "TH",
+    "flag_emoji": "🇹🇭",
+    "flag_emoji_unicode": "U+1F1F9 U+1F1ED",
     "source_file": "citadel_generated_vo_thai.txt",
-    "generated_at": "2026-02-22T14:29:44.184272",
+    "generated_at": "2026-02-22T21:20:14.023306",
     "entry_count": 163,
     "collision_count": 0,
     "exact_override_count": 0

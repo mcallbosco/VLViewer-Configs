@@ -1,8 +1,13 @@
 {
   "meta": {
     "language": "koreana",
+    "friendly_name": "Korean",
+    "native_name": "한국어",
+    "country_code": "KR",
+    "flag_emoji": "🇰🇷",
+    "flag_emoji_unicode": "U+1F1F0 U+1F1F7",
     "source_file": "citadel_generated_vo_koreana.txt",
-    "generated_at": "2026-02-22T14:29:43.860910",
+    "generated_at": "2026-02-22T21:20:13.653627",
     "entry_count": 0,
     "collision_count": 0,
     "exact_override_count": 0

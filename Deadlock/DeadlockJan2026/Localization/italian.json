@@ -1,13 +1,18 @@
 {
   "meta": {
     "language": "italian",
+    "friendly_name": "Italian",
+    "native_name": "Italiano",
+    "country_code": "IT",
+    "flag_emoji": "🇮🇹",
+    "flag_emoji_unicode": "U+1F1EE U+1F1F9",
     "source_file": "citadel_generated_vo_italian.txt",
-    "generated_at": "2026-02-22T14:29:43.858223",
+    "generated_at": "2026-02-22T21:20:13.651314",
     "entry_count": 1,
     "collision_count": 0,
     "exact_override_count": 0
   },
   "lines": {
-    "patron_female_tutorial_stamina_reminder_announcer_tutorial": "Hai esaurito la stamina, ma non preoccuparti, col tempo si ricaricherà."
+    "patron_female_tutorial_stamina_reminder": "Hai esaurito la stamina, ma non preoccuparti, col tempo si ricaricherà."
   }
 }

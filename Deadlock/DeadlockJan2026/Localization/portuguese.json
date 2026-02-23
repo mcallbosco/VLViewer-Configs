@@ -1,8 +1,13 @@
 {
   "meta": {
     "language": "portuguese",
+    "friendly_name": "Portuguese",
+    "native_name": "Português",
+    "country_code": "PT",
+    "flag_emoji": "🇵🇹",
+    "flag_emoji_unicode": "U+1F1F5 U+1F1F9",
     "source_file": "citadel_generated_vo_portuguese.txt",
-    "generated_at": "2026-02-22T14:29:43.869110",
+    "generated_at": "2026-02-22T21:20:13.671528",
     "entry_count": 0,
     "collision_count": 0,
     "exact_override_count": 0
