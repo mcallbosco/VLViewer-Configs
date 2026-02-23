@@ -34,6 +34,7 @@
   "conversationsFile": "Games/Overwatch/2026S1/all_conversations.json",
   "disableDownloads": true,
   "hideFilenames": true,
+  "hasConversationSummaries": false,
   "roundedPortraits": true,
   "opengraphIcon": "Games/Overwatch/Icons/OverwatchIcon.png",
   "favicon": "Games/Overwatch/Icons/OverwatchIcon.ico",
